@@ -5,7 +5,8 @@
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.jsp</welcome-file>
     <welcome-file>index.htm</welcome-file>
-    <!-- welcom-file 추가 -->
+    <!-- welcom-file 추가1 -->
+    <!-- welcom-file 추가2 -->
     <welcome-file>find.jsp</welcome-file>
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.jsp</welcome-file>
